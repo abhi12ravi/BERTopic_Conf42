@@ -1,6 +1,4 @@
-# BERTopic_Conf42
-
-# Conf42: Topic Modelling
+# Conf42: From Data to Discovery: Unveiling Clustering in BERTopic Topic Modeling
 
 Hands-on notebook for Conf42 session
 
